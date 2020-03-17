@@ -1,0 +1,11 @@
+Package: JHWKmeans
+Type: Package
+Title: An implementation for Joshua Zhexue Huang's Paper "Automated Variable Weighting in k-Means Type Clustering"
+Version: 0.1.0
+Author: Zezeng Lu
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package provides an implemention for the Weighting Kmeans Algorithm.
+    It has a list-type result with three items, as "U", "Z", "W"
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
